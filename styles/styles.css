@@ -25,3 +25,22 @@ h1 {
 #main-nav .featured {
     background-color: orange;
 }
+
+/* Link styles */
+
+a:link {
+    color: blue;
+}
+
+.footer {
+    color: #666;
+    background-color: #ccc;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer a {
+    color: inherit;
+    text-decoration: underline;
+}
